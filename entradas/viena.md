@@ -5,3 +5,6 @@ Viena, ubicada sobre el río Danubio en la parte oriental de Austria, se desarro
 
 ## Recomendación
 Explorar el Palacio de Schönbrunn.
+
+## Foto
+![](https://viajes.nationalgeographic.com.es/medio/2019/01/30/hofburg-palacio-imperial-viena_b65d8a2d_1200x630.jpg)
